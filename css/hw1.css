@@ -1,0 +1,41 @@
+/* Neutral & Versatile */
+body {
+    margin: 5px;
+    padding: inherit;
+}
+
+header{
+  background-image: url(../images/flywheel.jpg);
+  background-repeat: no-repeat center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+h1{
+  text-align: center;
+  color: #FCFDFE;
+}
+
+h2{
+  color: #626d71;
+  text-transform: uppercase;
+}
+
+
+
+img{
+  display: none;
+}
+
+section{
+  background-color: #cdcdc0;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  background-color: #cdcdc0;
+  color: #626d71;
+}
